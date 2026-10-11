@@ -69,6 +69,10 @@ MEArec Recording
 ----------------
 .. automodule:: neuroconv.datainterfaces.ecephys.mearec.mearecdatainterface
 
+Natus/XLTEK (NeuroWorks) Recording
+----------------------------------
+.. automodule:: neuroconv.datainterfaces.ecephys.natus.natusdatainterface
+
 Neuralynx Recording & Sorting
 -----------------------------
 .. automodule:: neuroconv.datainterfaces.ecephys.neuralynx.neuralynxdatainterface

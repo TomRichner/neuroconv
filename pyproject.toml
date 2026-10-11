@@ -241,6 +241,10 @@ mearec = [
     "MEArec>=1.8.0",
     "setuptools; python_version >= '3.12'"
 ]
+natus = [  # NatusRawIO is not in a neo release yet: install neo and spikeinterface from the forks
+    "neuroconv[ecephys_minimal]",
+    "numba",
+]
 neuralynx = [
     "neuroconv[ecephys_minimal]",
     "natsort>=7.1.1",

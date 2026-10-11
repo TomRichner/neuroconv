@@ -25,6 +25,7 @@ Recording
     MaxOne <recording/maxwell>
     MCSRaw <recording/mcsraw>
     MEArec <recording/mearec>
+    Natus/XLTEK (NeuroWorks) <recording/natus>
     Neuralynx <recording/neuralynx>
     NeuroScope <recording/neuroscope>
     OpenEphys <recording/openephys>
